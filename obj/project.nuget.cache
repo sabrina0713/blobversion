@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "yAmQSJfHSQ793krdzpW5ErWfpE8QdKoviOzrrQTeOaoQh/VA6wCb9Zl8Q/+vPIGK8mu3ikXRrijagv4C/japbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\limarlow\\Downloads\\code\\aspnet\\BlobQuickstartV12\\BlobQuickstartV12.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\limarlow\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\azure.storage.blobs\\12.7.0\\azure.storage.blobs.12.7.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\azure.storage.common\\12.6.0\\azure.storage.common.12.6.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\limarlow\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

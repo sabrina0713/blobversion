@@ -1,0 +1,9 @@
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\BlobQuickstartV12.exe
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\BlobQuickstartV12.dll
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\BlobQuickstartV12.deps.json
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\BlobQuickstartV12.runtimeconfig.json
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\BlobQuickstartV12.pdb
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\Azure.Core.dll
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\Azure.Storage.Blobs.dll
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\Azure.Storage.Common.dll
+C:\Users\limarlow\Downloads\code\aspnet\BlobQuickstartV12\bin\Debug\net5.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
