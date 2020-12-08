@@ -14,7 +14,7 @@ namespace BlobQuickstartV12
         static async Task Main()
         {
             
-            string connectionString="DefaultEndpointsProtocol=https;AccountName=demoversioning;AccountKey=Q2YyqRiu+8z+oPeBn1Ga95BvkWdhgSvCL5OOVpGnXz6lcruSGhmNHkJru6dn3pjDAdcwPSR2IVkfyESHgIGirw==;EndpointSuffix=core.windows.net";
+            string connectionString="";
             Console.WriteLine("Azure Blob storage v12 - .NET quickstart sample\n");
             //string connectionString = Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING");
             BlobServiceClient blobServiceClient = new BlobServiceClient(connectionString);
